@@ -3,6 +3,6 @@ rasterio
 numpy
 requests
 sagemaker
-sklearn
+scikit-learn
 matplotlib
 PyQT5
