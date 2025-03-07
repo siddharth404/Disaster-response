@@ -1,0 +1,8 @@
+streamlit
+rasterio
+numpy
+requests
+sagemaker
+sklearn
+matplotlib
+PyQT5
